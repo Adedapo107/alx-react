@@ -1,5 +1,6 @@
 # 0x02-react_props
-## Learning ObjectivesHow to create basic React components using functions
+## Learning Objectives
+  - How to create basic React components using functions
   - How to reuse components
   - How to pass properties to components
   - How to define types for components
