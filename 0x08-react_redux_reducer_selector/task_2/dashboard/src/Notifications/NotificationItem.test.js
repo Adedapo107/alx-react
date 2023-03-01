@@ -36,4 +36,3 @@ describe('<NotificationItem />', () => {
     expect(li.exists());
   });
 });
-Footer
