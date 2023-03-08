@@ -39,4 +39,3 @@ const uiReducer = (state = Map(initialState), action) => {
 };
 
 export default uiReducer;
-Footer
